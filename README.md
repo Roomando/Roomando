@@ -1,4 +1,12 @@
-## Hello, World! 👋
+<h1 align="center">Hi 👋, I'm Baraa</h1>
+<h3 align="center">An aspiring full stack developer!</h3>
+
+- 🔭 I’m currently working on **a few secret projects :)**
+
+- 🌱 I’m currently learning **Java, Python, Javascript, SQL and NoSQL, REACT, Node.js**
+
+<h3> I'm still learning the ropes, discovering new things, and will update this soon! </h3>
+<h3> If you've already discovered me you're either a really close friend or you went down a weird rabbit hole in the internet!</h3>
 
 <!--
 **Roomando/Roomando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
