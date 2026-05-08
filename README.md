@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Baraa</h1>
-<h3 align="center">An aspiring full stack developer!</h3>
+<h3>I am an aspiring full stack developer! I enjoy anything computery and love to learn a few tidbits in every corner of the internet</h3>
+
 
 - 🔭 I’m currently working on **a few secret projects :)**
 
-- 🌱 I’m currently learning **Java, Python, Javascript, SQL and NoSQL, REACT, Node.js**
+- 🌱 I’m currently learning **Java, Python, Javascript, SQL, NoSQL, REACT and Node.js**
 
 <h3> I'm still learning the ropes, discovering new things, and will update this soon! </h3>
 <h3> If you've already discovered me you're either a really close friend or you went down a weird rabbit hole in the internet!</h3>
