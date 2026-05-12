@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning **Java, Python, Javascript - REACT & Node.js, SQL and NoSQL**
 
 <h3> I'm still learning the ropes, discovering new things, and will update this soon! </h3>
-<h3> If you've discovered my github you're either a close friend or you went down a weird rabbit hole in the internet!</h3>
+<h3> If you've discovered my github you're either a close friend or you went down a weird rabbit hole in the internet... Regardless, welcome!</h3>
+
+<h2>Contact @ roomando619@gmail.com</h2>
 
 <!--
 **Roomando/Roomando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
